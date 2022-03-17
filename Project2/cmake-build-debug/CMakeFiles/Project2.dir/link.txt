@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Project2.dir/LinkedList.c.o CMakeFiles/Project2.dir/main.c.o CMakeFiles/Project2.dir/ParseTree.c.o CMakeFiles/Project2.dir/Stack.c.o CMakeFiles/Project2.dir/Table.c.o CMakeFiles/Project2.dir/TreeNode.c.o  -o Project2 

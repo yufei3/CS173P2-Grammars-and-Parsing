@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project2/Project2/LinkedList.h
+stdbool.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project2/Project2/ParseTree.c
+ParseTree.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project2/Project2/ParseTree.h
+stdlib.h
+-
+stdio.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project2/Project2/ParseTree.h
+TreeNode.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project2/Project2/TreeNode.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project2/Project2/Stack.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project2/Project2/TreeNode.h
+LinkedList.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project2/Project2/LinkedList.h
+Stack.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project2/Project2/Stack.h
+
